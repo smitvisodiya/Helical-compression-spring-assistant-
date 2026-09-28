@@ -23,9 +23,9 @@ st.markdown("""
 st.sidebar.header("👨‍🎓 Group Details")
 st.sidebar.markdown("""
 **Group No:** 5  
-- **Member 1:** [Student Name 1] (Enrollment No. 01)  
-- **Member 2:** [Student Name 2] (Enrollment No. 02)  
-- **Member 3:** [Student Name 3] (Enrollment No. 03)  
+- **Member 1:** [Smit visodiya ] (Enrollment No. 25012250610004)  
+- **Member 2:** [Meet rathod] (Enrollment No. 25012250610010)  
+- **Member 3:** [Naman dave ] (Enrollment No. 25012250610025)  
 """)
 st.sidebar.markdown("---")
 
